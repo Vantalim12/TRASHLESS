@@ -1,0 +1,25 @@
+{
+  "short_name": "Trashfun",
+  "name": "Trashfun - Making Our Community's Trash Lesser Than Before",
+  "icons": [
+    {
+      "src": "trashfun-transparent.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "trashfun-transparent.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "trashfun-transparent.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#28a745",
+  "background_color": "#ffffff"
+}
