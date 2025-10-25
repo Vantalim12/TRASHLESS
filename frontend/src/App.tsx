@@ -274,7 +274,12 @@ function App() {
             <div className="hero-buttons">
               <button
                 className="btn-primary"
-                onClick={() => window.open("https://pump.fun/", "_blank")}
+                onClick={() =>
+                  window.open(
+                    "https://pump.fun/B8NrEh4THF9QDTBypqcKhdV4i1RNd8pR8YBLXEq6DizW",
+                    "_blank"
+                  )
+                }
               >
                 Trade $TRASHFUN
               </button>
